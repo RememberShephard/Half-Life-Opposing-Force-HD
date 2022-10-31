@@ -1,0 +1,55 @@
++0medkit	detail/+0medkit				1.0	1.0
++0recharge	detail/+0recharge			1.0	1.0
++arecharge	detail/+arecharge			1.0	1.0
++amedkit	detail/+amedkit				1.0	1.0
+
+crate1a		detail/crate_small			1.0	1.0
+eastcratelgtp	detail/crate2_stalkx			1.0	1.0
+eastcratesm	detail/crate2_stalkx			1.0	1.0
+
+c1a4_silo3	detail/dt_conc				1.5	3.0
+crete3_wall02	detail/concretefloor027a_sw		1.0	1.0
+
+crete_wall1	detail/dettex7_bright			1.0	1.0
+
+double_asphalt	detail/gravelfloor005a			2.0	2.0
+double_trim1	detail/dt_stone2_dark			2.0	4.0
+
+e_floor3	detail/dt_stone1			2.0	1.0
+
+eastgutter1a	detail/dt_metal3			0.5	0.25
+
+i_trim1		detail/dt_stone1			2.0	2.0
+i_church1	detail/dt_stone1			7.0	3.5
+i_wall_base1	detail/dt_stone1			7.0	3.5
+i_wall_base2	detail/dt_stone1			4.0	2.0
+i_wall_base4	detail/dt_stone1			4.0	2.0
+
+in_wall30	detail/dt_stone1			2.0	1.0
+
+ital_wall3b	detail/dettex7_bright			2.0	2.0
+ital_wall5a	detail/dt_stone1			4.0	8.0
+
+out_dirt2	detail/dirtfloor1_stalkx		1.0	1.0
+out_ground5	detail/groundd_stalkx			1.0	1.0
+
+out_sidewalk3	detail/concretefloor016a_stalkx_s	1.0	1.0
+
+out_stones1	detail/dt_conc				4.0	4.0
+
+powerup_wall2	detail/dt_stone1			4.0	2.0
+
+road_1		detail/dt_conc				4.0	4.0
+
+wall_crete1	detail/dettex7_bright			1.0	0.5
+
+wall_stone_sm2	detail/dt_stone1			4.0	4.0
+
+{ladder3a	detail/dt_metal3			1.0	1.0
+
++0~generic85	detail/crystallized1			1.0	1.0
++0~generic86	detail/crystallized1			1.0	1.0
+~spotgreen	detail/crystallized1			1.0	1.0
+~trn_lt1	detail/dt_ssteel2			1.0	0.5
+
+

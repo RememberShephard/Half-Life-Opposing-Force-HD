@@ -1,0 +1,4 @@
++amedkit		detail/+amedkit		1.0	1.0
++arecharge		detail/+arecharge	1.0	1.0
++0medkit		detail/+0medkit		1.0	1.0
++0recharge		detail/+0recharge	1.0	1.0
