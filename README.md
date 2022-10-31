@@ -1,4 +1,4 @@
-# half-life_and_opposing-force_hd
+# Half-Life and Opposing Force HD
  
 These files are not my own, I have compiled them from several sources and put them together into one pack. As more are released or new updates come along I will add them to this pack. This really changes the original Half-Life and gives an impressive feel and look to the game but yet keeping that classic half-life engine. Please bear in mind that maps that use custom wad files will not have these HD textures as they use their own. I do not have a HD opfor.wad as of yet but hopefully soon.
 
