@@ -7,7 +7,7 @@ This is not a new mod for half-life it simply replacing/updating the old WAD/Tex
 
 How to install.
 -------------------------------------------------------------------------------------------------------------------------
-Before you start, it is a good idea to back up your original valve_hd folder and gearbox_hd folder (just rename the previous one to somethign else). There already is a back up copy of the halflife.wad in case you do not like the new HD wad.
+Before you start, it is a good idea to back up your original valve_hd folder and gearbox_hd folder (just rename the previous one to something else). There already is a back up copy of the halflife.wad in case you do not like the new HD wad.
 
 Copy these files into your Half-Life folder.
 
