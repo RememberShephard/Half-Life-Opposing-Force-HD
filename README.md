@@ -26,17 +26,11 @@ Sreenshots
 -------------------------------------------------------------------------------------------------------------------------
 ![alt text](https://oneeyedjacks.uk/images/hdop46.jpg)
 
-![alt text](https://oneeyedjacks.uk/images/hdop45.jpg)
 
-![alt text](https://oneeyedjacks.uk/images/hdop44.jpg)
-
-![alt text](https://oneeyedjacks.uk/images/hdop42.jpg)
-
-![alt text](https://oneeyedjacks.uk/images/hdop41.jpg)
 
 ![alt text](https://oneeyedjacks.uk/images/hdhl3.jpg)
 
-![alt text](https://oneeyedjacks.uk/images/hdhl1.jpg)
+
 
 ![alt text](https://oneeyedjacks.uk/images/hdhl2.jpg)
 
@@ -63,4 +57,4 @@ The detailed texture pack that is being used was uplaoded by rabworc
 
 https://gamebanana.com/mods/6737
 
-More Opposing Forc related contact can be found at www.oneeyedjacks.uk
+More Opposing Force related contact can be found at https://www.half-life-opposing-force.info
