@@ -22,17 +22,16 @@ Bugs/Errors that I found so far
 -------------------------------------------------------------------------------------------------------------------------
 The v_357 and the v_hornetgun weapon models seem to make my Opposing Force game crash, there is no issue using these in normal Half-Life. Not sure why as it doesn't give me an error. I tested it on Linux and it had no issues, could be something with Windows or maybe just my own PC, so perhaps just something to mindful of if your game won't load.
 
-Sreenshots
+Screenshots
 -------------------------------------------------------------------------------------------------------------------------
-![alt text](https://oneeyedjacks.uk/images/hdop46.jpg)
+
+![image](https://user-images.githubusercontent.com/117079646/202869878-67febcde-f0a2-467c-90cf-e5d0578c2bdd.png)
 
 
 
-![alt text](https://oneeyedjacks.uk/images/hdhl3.jpg)
 
 
 
-![alt text](https://oneeyedjacks.uk/images/hdhl2.jpg)
 
 References/Sources
 -------------------------------------------------------------------------------------------------------------------------
